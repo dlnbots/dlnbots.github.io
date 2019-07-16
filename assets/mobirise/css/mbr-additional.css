@@ -1387,11 +1387,31 @@ body {
   background-color: #4f779e;
   color: #ffffff;
 }
-.jq-selectbox .jq-selectbox__trigger-arrow {
-  border-top-color: contrast(currentColor, #000000, #ffffff, 30%);
+.jq-selectbox .jq-selectbox__trigger-arrow,
+.jq-number__spin.minus:after,
+.jq-number__spin.plus:after {
+  transition: 0.4s;
+  border-top-color: currentColor;
+  border-bottom-color: currentColor;
 }
-.jq-selectbox:hover .jq-selectbox__trigger-arrow {
+.jq-selectbox:hover .jq-selectbox__trigger-arrow,
+.jq-number__spin.minus:hover:after,
+.jq-number__spin.plus:hover:after {
   border-top-color: #4f779e;
+  border-bottom-color: #4f779e;
+}
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_default,
+.xdsoft_datetimepicker .xdsoft_calendar td.xdsoft_current,
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div.xdsoft_current {
+  color: #ffffff !important;
+  background-color: #4f779e !important;
+  box-shadow: none!important;
+}
+.xdsoft_datetimepicker .xdsoft_calendar td:hover,
+.xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
+  color: #000000 !important;
+  background: #8ebae2 !important;
+  box-shadow: none !important;
 }
 .cid-rbKuoXB8Hg .navbar {
   padding: .5rem 0;
@@ -2438,7 +2458,7 @@ body {
 }
 .cid-rbKqlZ8TqI {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-color: #2c2f33;
 }
 .cid-rbKqlZ8TqI .card-box {
@@ -2478,6 +2498,50 @@ body {
   transition: box-shadow 0.3s;
 }
 .cid-rbKqlZ8TqI .card-title {
+  color: #ffffff;
+}
+.cid-rwpZWTFiCA {
+  padding-top: 0px;
+  padding-bottom: 90px;
+  background-color: #2c2f33;
+}
+.cid-rwpZWTFiCA .card-box {
+  padding: 0 2rem;
+}
+.cid-rwpZWTFiCA .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rwpZWTFiCA .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-rwpZWTFiCA h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rwpZWTFiCA p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rwpZWTFiCA .mbr-text {
+  color: #767676;
+  text-align: right;
+}
+.cid-rwpZWTFiCA .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #23272a;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rwpZWTFiCA .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-rwpZWTFiCA .card-title {
   color: #ffffff;
 }
 .cid-rbKmhHS2FF {
