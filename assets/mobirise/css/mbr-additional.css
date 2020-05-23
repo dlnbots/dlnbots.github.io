@@ -872,7 +872,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #8ebae2;
 }
 .cid-rbKuoXB8Hg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1497,7 +1497,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #8ebae2;
 }
 .cid-rbKodVC67T button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2143,7 +2143,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #8ebae2;
 }
 .cid-rbKuoXB8Hg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2614,7 +2614,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #8ebae2;
 }
 .cid-rbKuoXB8Hg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3281,7 +3281,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #8ebae2;
 }
 .cid-rbKuoXB8Hg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3847,7 +3847,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #8ebae2;
 }
 .cid-rbKuoXB8Hg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4119,32 +4119,6 @@ section.lazy-placeholder:after {
     text-align: center;
   }
 }
-.cid-rPEZY17MN8 {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/titanmc-11-2000x500.png");
-}
-.cid-rPEZY17MN8 .media-container-row {
-  flex-direction: row-reverse;
-  -webkit-flex-direction: row-reverse;
-}
-@media (min-width: 992px) {
-  .cid-rPEZY17MN8 .mbr-figure {
-    padding-right: 4rem;
-    padding-right: 0;
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-rPEZY17MN8 .mbr-figure {
-    padding-bottom: 3rem;
-  }
-}
-@media (max-width: 767px) {
-  .cid-rPEZY17MN8 .mbr-text {
-    text-align: center;
-  }
-}
 .cid-rPF1uzn3SD {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -4379,7 +4353,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #ffffff;
+  background-color: #8ebae2;
 }
 .cid-rbKuoXB8Hg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4608,6 +4582,32 @@ section.lazy-placeholder:after {
 }
 .cid-rPEZ7aD0ad H1 {
   color: #ffffff;
+}
+.cid-rZQlSqPghk {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/titanmc-11-2000x500.png");
+}
+.cid-rZQlSqPghk .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+@media (min-width: 992px) {
+  .cid-rZQlSqPghk .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rZQlSqPghk .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rZQlSqPghk .mbr-text {
+    text-align: center;
+  }
 }
 .cid-rPEYWKPUu3 {
   padding-top: 90px;
