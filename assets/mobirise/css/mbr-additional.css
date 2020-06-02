@@ -872,7 +872,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #8ebae2;
+  background-color: #ffffff;
 }
 .cid-rbKuoXB8Hg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1497,7 +1497,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #8ebae2;
+  background-color: #ffffff;
 }
 .cid-rbKodVC67T button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2143,7 +2143,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #8ebae2;
+  background-color: #ffffff;
 }
 .cid-rbKuoXB8Hg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2614,7 +2614,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #8ebae2;
+  background-color: #ffffff;
 }
 .cid-rbKuoXB8Hg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3281,7 +3281,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #8ebae2;
+  background-color: #ffffff;
 }
 .cid-rbKuoXB8Hg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -3847,7 +3847,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #8ebae2;
+  background-color: #ffffff;
 }
 .cid-rbKuoXB8Hg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4098,6 +4098,26 @@ section.lazy-placeholder:after {
 .cid-rM57FFh7xn H1 {
   text-align: left;
   color: #ffffff;
+}
+.cid-s0KEZzq3yG {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/bc-512x512.png");
+}
+@media (min-width: 992px) {
+  .cid-s0KEZzq3yG .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s0KEZzq3yG .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s0KEZzq3yG .mbr-text {
+    text-align: center;
+  }
 }
 .cid-rM581DM7cj {
   padding-top: 90px;
@@ -4353,7 +4373,7 @@ section.lazy-placeholder:after {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #8ebae2;
+  background-color: #ffffff;
 }
 .cid-rbKuoXB8Hg button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
