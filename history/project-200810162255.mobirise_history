@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "path": "@PROJECT_PATH@",
+    "name": "Devlin Bots-clone",
+    "screenshot": "screenshot.png",
+    "versionFirst": "5.0.16",
+    "siteFonts": [],
+    "theme": {},
+    "currentPage": "index.html",
+    "versionPublish": "5.0.16"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": []
+    }
+  }
+}
