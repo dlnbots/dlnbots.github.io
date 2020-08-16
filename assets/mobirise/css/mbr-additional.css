@@ -4099,6 +4099,26 @@ section.lazy-placeholder:after {
   text-align: left;
   color: #ffffff;
 }
+.cid-s7Pz0NbIyr {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/banner-1920x1080.png");
+}
+@media (min-width: 992px) {
+  .cid-s7Pz0NbIyr .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-s7Pz0NbIyr .mbr-figure {
+    padding-bottom: 3rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-s7Pz0NbIyr .mbr-text {
+    text-align: center;
+  }
+}
 .cid-s7h9EKYfFL {
   padding-top: 90px;
   padding-bottom: 90px;
